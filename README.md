@@ -19,13 +19,6 @@
 </a>  
 </p>
 
-📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielbenford&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbenford&layout=compact&theme=tokyonight" />
-</p>
-
 
 ## 🧠 What I do
 
@@ -48,4 +41,5 @@
   DevOps & Tools
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-  
+  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
