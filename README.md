@@ -31,6 +31,7 @@
 -   📊 Create codes that fills spreadsheets, downloads files, opens websites, and extracts data automatically
 -   🤖 Creat bots for social media
 -   📲 Automate apps
+-   🔬 Automate tests for codes
 
   
   🛠️ Tech Stack
