@@ -1,8 +1,8 @@
 ## Hi👋 I'm Gabriel Benford
-🚀Junior QA automation developer |Python
+🚀Junior QA automation developer
 
 ![Brazil](https://img.shields.io/badge/From%20-Brazil-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 
 ## 🌐 Where to find me
 
