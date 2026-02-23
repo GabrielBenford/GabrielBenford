@@ -1,5 +1,5 @@
 ## Hi👋 I'm Gabriel Benford
-🚀Junior QA automation developer
+🚀QA automation developer focused on testing websites and API's
 
 ![Brazil](https://img.shields.io/badge/From%20-Brazil-brightgreen)
 
