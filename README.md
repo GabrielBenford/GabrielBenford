@@ -1,5 +1,6 @@
 ## Hi👋 I'm Gabriel Benford
-🚀QA automation developer focused on testing websites and API's
+Backend Java Developer | Building scalables and safe API's
+
 
 ![Brazil](https://img.shields.io/badge/From%20-Brazil-brightgreen)
 
@@ -25,35 +26,28 @@
 </a>  
 </p>
 
-
-## 🧠 What I do
-
--   📊 Create codes that fills spreadsheets, downloads files, opens websites, and extracts data automatically
--   🤖 Creat bots for social media
--   📲 Automate apps
--   🔬 Automate tests for codes
-
   
-  🛠️ Languages&Frameworks/Libraries
+  ## 🧠 What I do
+  
+  - 🚀 Build scalable backend applications with Java & Spring Boot
+  
+  - 🔐 Implement authentication and authorization using JWT & Spring Security
+  
+  - 🗄️ Design and integrate relational databases with MySQL & PostgreSQL
+  
+  - 🐳 Containerize and deploy applications using Docker & Docker Compose
+  
+  - 🧪 Ensure code quality through testing, clean architecture, and best practices
+  
+  - 📚 Continuously improve my skills in software engineering, microservices, and cloud technologies
+  
+  <h3>⚙️ Tech Stack</h3>
+  
+  <p>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,docker,mysql,postgres,selenium,git,github,maven,idea,pycharm" />
+  </p>
+
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40px" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40px" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40px" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Pytest" width="40px" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40px" style="margin-right:10px"/>
-</p>
-    
-  DevOps & Tools
-  
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40px">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40px" title="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD - GitHub Actions" width="40px">  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
