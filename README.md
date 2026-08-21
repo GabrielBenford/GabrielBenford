@@ -1,5 +1,5 @@
 ## Hi👋 I'm Gabriel Benford
-Backend Java Developer | Building scalables and safe API's
+Backend Java Developer Software Engineer Student | Building scalables and safe API's
 
 
 ![Brazil](https://img.shields.io/badge/From%20-Brazil-brightgreen)
@@ -39,7 +39,7 @@ Backend Java Developer | Building scalables and safe API's
   
   - 🧪 Ensure code quality through testing, clean architecture, and best practices
   
-  - 📚 Continuously improve my skills in software engineering, microservices, and cloud technologies
+  - 📚 Continuously improve my skills in software engineering, system design and architecture
   
   <h3>⚙️ Tech Stack</h3>
   
